@@ -39,3 +39,5 @@ All props are optional
 
 ![React-Native-Turkiye Animated-Button](https://github.com/react-native-turkiye/animated-button/blob/main/spin.gif?raw=true){ width=320px }
 ![React-Native-Turkiye Animated-Button](https://github.com/react-native-turkiye/animated-button/blob/main/non-spin.gif?raw=true){ width=320px }
+
+<img src="https://github.com/react-native-turkiye/animated-button/blob/main/spin.gif?raw=true" width="320">
