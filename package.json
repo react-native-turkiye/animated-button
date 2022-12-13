@@ -1,0 +1,25 @@
+{
+  "name": "@react-native-turkiye/animated-button",
+  "version": "1.0.2",
+  "description": "React native is prepared for easy button creation. No button limitation. Just enough to fit the screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animated-button",
+    "react-native-button",
+    "button"
+  ],
+  "author": "Oguzhan Akbolat",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-svg": "13.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  }
+}
