@@ -37,4 +37,5 @@ All props are optional
   />
 ```
 
-![React-Native-Turkiye Animated-Button](https://url/to/img.png)
+![React-Native-Turkiye Animated-Button](https://github.com/react-native-turkiye/animated-button/blob/main/spin.gif?raw=true)
+![React-Native-Turkiye Animated-Button](https://github.com/react-native-turkiye/animated-button/blob/main/non-spin.gif?raw=true)
