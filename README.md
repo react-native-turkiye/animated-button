@@ -17,6 +17,7 @@ All props are optional
 
 ```sh
   <AnimatedButton
+    spin // defaul value false
     mainButtonColor="blue" // default value red
     iconColor="yellow" // default value white
     right={30} // default value 24
